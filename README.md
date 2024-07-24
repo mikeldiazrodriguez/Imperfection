@@ -14,7 +14,7 @@ Imperfection_code.R ... R file to reproduce the analysis.
 
 Imperfection.Rmd ... Rmarkdown file to reproduce the analysis.
 
-Imperfection.PDF ... PDF file to reproduce the analysis.
+Imperfection.pdf ... pdf file to reproduce the analysis.
 
 
 ## Source code and data reference
