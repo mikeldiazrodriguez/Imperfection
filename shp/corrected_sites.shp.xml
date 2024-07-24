@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="es"><Esri><CreaDate>20240413</CreaDate><CreaTime>18292600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.3\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractMultiValuesToPoints" Date="20240413" Time="180448">ExtractMultiValuesToPoints sites_central-corr "ALTA_central.tif ALTA_centr;ASP_central.tif ASP_centra;HYDROC_central.tif HYDROC_cen" NONE</Process></lineage></DataProperties></Esri></metadata>
