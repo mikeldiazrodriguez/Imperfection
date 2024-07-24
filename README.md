@@ -22,4 +22,4 @@ Mikel Díaz-Rodríguez<a href="https://orcid.org/0000-0002-2703-1507">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="14" height="14" />
 </a>. (2023, November 16). Geospatial Accuracy in Paleolithic Sites of the Central Mountain Ranges (Northwestern Iberia): A Statistical Study. Source code and data. Zenodo. https://doi.org/10.5281/zenodo.12805441
 
-[![DOI]([https://zenodo.org/badge/610742714](https://doi.org/10.5281/zenodo.12805441).svg)].
+[![DOI](https://zenodo.org/badge/833073433.svg)](https://zenodo.org/doi/10.5281/zenodo.12805441).
